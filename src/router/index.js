@@ -41,7 +41,7 @@ export default new Router({
         },
         {
           path: 'chat',
-          name: '注册',
+          name: '聊天页',
           component: ChatView
         },
         {

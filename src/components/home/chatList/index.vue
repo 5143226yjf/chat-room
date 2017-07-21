@@ -1,5 +1,5 @@
 <template>
-  <mobile-tear-sheet>
+  <mobile-tear-sheet name="chatList">
     <mu-list>
       <mu-sub-header>最近聊天记录</mu-sub-header>
       <mu-list-item title="Mike Li">
