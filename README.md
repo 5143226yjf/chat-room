@@ -26,5 +26,13 @@ npm run e2e
 # run all tests
 npm test
 ```
-![Alt text](/static/markedown-img0.png)
-![试试](http://oia85104s.bkt.clouddn.com/chat-room/img-5.png)
++  登录页面
+![登录页面](http://oia85104s.bkt.clouddn.com/chat-room/img-1.png)
++  注册页面
+![注册页面](http://oia85104s.bkt.clouddn.com/chat-room/img-3.png)
++  聊天列表
+![聊天列表](http://oia85104s.bkt.clouddn.com/chat-room/img-2.png)
++  好友列表
+![好友列表](http://oia85104s.bkt.clouddn.com/chat-room/img-4.png)
++  我的中心
+![我的中心](http://oia85104s.bkt.clouddn.com/chat-room/img-5.png)
