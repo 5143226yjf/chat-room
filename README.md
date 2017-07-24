@@ -1,6 +1,6 @@
 # chat-room
 
-> A Vue.js project
+> 基于Vue 2.0 和 socket.io
 
 ## Build Setup
 
@@ -26,5 +26,5 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Alt text](/static/markedown-img0.png)
+![试试](http://oia85104s.bkt.clouddn.com/chat-room/img-5.png)
