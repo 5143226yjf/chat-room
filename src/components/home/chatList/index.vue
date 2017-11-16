@@ -2,7 +2,7 @@
   <mobile-tear-sheet name="chatList">
     <mu-list>
       <mu-sub-header>最近聊天记录</mu-sub-header>
-      <mu-list-item title="Mike Li">
+      <mu-list-item title="Mike Li" to="/home/chat/mike">
         <mu-avatar :src="img" slot="leftAvatar"/>
         <span slot="describe">
           <span style="color: rgba(0, 0, 0, .87)">哇去</span><br/> 实在编不下去，这就是个demo

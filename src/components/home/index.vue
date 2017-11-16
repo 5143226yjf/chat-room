@@ -21,10 +21,6 @@
 </template>
 <script>
   export default {
-    props: [],
-    mounted () {
-      this.$router.push('/home/chat-list')
-    },
     data () {
       return {
         bottomNav: '消息',

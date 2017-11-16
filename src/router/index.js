@@ -17,7 +17,8 @@ export default new Router({
     {
       path: '/',
       name: 'Hello',
-      component: Hello
+      component: Hello,
+      redirect: '/login'
     },
     {
       path: '/login',
@@ -30,19 +31,20 @@ export default new Router({
       component: Register
     },
     {
+      path: '/home/chat/:userId',
+      name: '聊天页',
+      component: ChatView
+    },
+    {
       path: '/home',
       name: '主页',
       component: Home,
+      redirect: '/home/chat-list',
       children: [
         {
           path: 'myinfo',
           name: '我的中心',
           component: MyInfo
-        },
-        {
-          path: 'chat',
-          name: '聊天页',
-          component: ChatView
         },
         {
           path: 'friend',
